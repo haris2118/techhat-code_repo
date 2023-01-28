@@ -1,0 +1,3 @@
+hey techhat team
+this is user john and i uploaded this new file into the repository, later on, i will be uploading some shell scripting ans play book to this repo
+if you would like to get the latest copy of this repo
