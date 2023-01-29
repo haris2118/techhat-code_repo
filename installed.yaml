@@ -25,4 +25,7 @@
   - name: Adding 3rd debug module
     debug: msg="We are learning git branching concept"
 
+  - name: Adding another debug statment
+    debug: msg="We are learning branching and merging"
+
 
